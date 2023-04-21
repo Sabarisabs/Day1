@@ -1,0 +1,167 @@
+.header{
+  width: 1920px;
+height: 70px;
+left: 1920px;
+top: 0px;
+padding-top:100px;
+background: #111010;
+
+ 
+}
+#logo{
+  padding-left:312px ;
+}
+
+.topnav-right {
+    float: right;
+    text-align: center;
+    text-decoration: none;
+  }
+  .topnav-right a{
+    margin: 12px;
+    padding: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 400;
+    color: white;
+
+  }
+  .container {
+color:white;
+    position: absolute;
+    width: 462px;
+    height: 49px;
+    left: 312px;
+    top: 374px;    padding: 2px 16px;
+  }
+  .image{
+    position: absolute;
+    width: 714px;
+    height: 533px;
+    left: 964px;
+    top: 245px;
+    
+  }
+.btn1{
+  width: 180px;
+height: 52px;
+margin-top: 30px;
+
+
+border: 2px solid #FFFFFF;
+border-radius: 9px;
+background-color: black;
+color: #FFFFFF;
+}
+
+  .card{
+	width:420px; height:500px; text-align: center; background-color:grey; border-radius:20px ; margin:20px;
+	float:right
+  }
+ 
+  .card img{
+	background-color:white; margin: 20px; border-radius: 20px;width:380px ;    height: 300px;
+  }
+  .card:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+
+  .container2 {
+	padding: 2px 16px;
+	
+  }
+  .container3{
+	
+	position: absolute;
+width: 1920px;
+height: 968px;
+left: 0px;
+top: 2019px;
+	background-color: black;
+  }
+  .card-inner{
+	position: absolute;
+width: 1422px;
+height: 400px;
+left: 249px;
+top: 3197px;
+
+background: #E3E3E3;
+border-radius: 36px;
+
+  }
+  .card-inner img{
+	margin:23px;
+	border-radius: 20px;
+  }
+  .container4{
+	position: absolute;
+width: 1920px;
+height: 709px;
+left: 0px;
+top: 4555px;
+
+background: #FFFFFF;
+  }
+
+  .pro-img img{
+border-radius: 20px;
+margin:20px;
+width: 510px;
+height: 313px;
+
+  }
+  .serve img{
+	border-radius: 20px;
+	margin:20px;
+	width: 510px;
+	height: 313px;
+	
+	  }
+	  .card5{
+		width:420px; height:560px; text-align: justify; background-color:grey; border-radius:20px ; margin:20px;
+		float:left; margin-left: 150px;
+		
+	  }
+	 
+	  .card5 img{
+		background-color:white; margin: 20px; border-radius: 20px;width:380px ;    height: 300px;
+	  }
+	  .card6{
+		width: 550px;
+		height: 260px;text-align: justify; background-color:grey; border-radius:20px ; margin:20px;
+		float:left
+	  }
+	  h3{
+		margin:10px;
+	  }
+	  .card6 p{
+		font-size: 17px;
+		margin: 15px;
+	  }
+	  .card5  button{
+		width:150px;
+		height:40px;
+		font-size: 16px;
+	  } 
+	  .card6  button{
+		width:150px;
+		height:40px;
+		font-size: 16px;
+	  } 
+	  .footer{
+		width: 1920px;
+height: 374px;
+background:black;
+border-bottom-right-radius: 60px;
+border-bottom-left-radius: 60px;
+margin:20px;
+	  }
+	 .footerimg img{
+		
+          width: 109.04px;
+          height: 110px;
+		  border-radius: 20px;
+		  margin:5px;
+	 }
